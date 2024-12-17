@@ -1,0 +1,4 @@
+build*
+/lib*
+/platforms/platforms.txt
+/platforms/compilation
